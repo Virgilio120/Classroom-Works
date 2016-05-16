@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/felipe/Documents/ELOI/MultiplayerFPS-Tutorial-master - C\xF3pia
+    (2)/MultiplayerFPS/Assets/FASE1.unity"
+  isLoaded: 1
+  isActive: 1
